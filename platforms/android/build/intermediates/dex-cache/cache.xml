@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/mark/Documentos/AppForsoft/forsoft/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d4f26122a38d97bf756ccd0a88911f5158c2aae1">
+        <dex dex="/home/mark/Documentos/AppForsoft/forsoft/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_71d895219527a4dfcb23cd03b791ec8f7fe23755.jar" />
+    </item>
+
+</items>
